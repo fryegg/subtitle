@@ -1,2 +1,2 @@
 # subtitle
-make subtitle through the open AI whisper
+make subtitle through the openai whisper
